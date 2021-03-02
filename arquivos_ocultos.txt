@@ -1,0 +1,4 @@
+./
+../
+.git/
+arquivos_ocultos.txt
