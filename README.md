@@ -1,1 +1,0 @@
-# bootcamp_kotlin_developer
